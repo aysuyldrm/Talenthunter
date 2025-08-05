@@ -1,4 +1,3 @@
-# Talenthunter
 # 🎯 Football Player Potential Prediction
 
 This project aims to predict whether a football player has **average** or **highlighted** potential based on attribute scores given by scouts during professional matches. The dataset is sourced from **Scoutium**, a platform for professional scouting and talent evaluation.
